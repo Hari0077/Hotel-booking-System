@@ -1,3 +1,3 @@
-# Rentals
+# Hotel booking System
 
-It is a website where users can seek house for rents and owners can post their rooms 
+It is a website where tourists can seek hotels for rents and hotels can post their availability. 
